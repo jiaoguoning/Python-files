@@ -1,4 +1,5 @@
 #The homework of No.1
+# 主线上的开发工作，现在看起来代码显的很简单
 for a in range(1,3000):
     if (a%1==0 and a%3==0and a%7==0and a%9==0and a%2==1 and a%4==1 and a%6==3and a%8==1 and a%5==4):
          print('输出最小值为：%d'%a)

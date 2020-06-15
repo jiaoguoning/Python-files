@@ -22,7 +22,7 @@ if s==a:
     print('是回文字符串')
 else:
     print('不是回文字符串')
-
+# 在testing分支上做了更改
 #the thrid homework
 num0=list(input('输入2018年的某一天：'))
 x=num0.index('/')

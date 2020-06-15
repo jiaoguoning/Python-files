@@ -4,7 +4,7 @@ import random
 # 生成随机数
 s=random.randint(0,9)
 
-
+# 在master基础上做了更改
 #随机数大小区别左或右
 if s>=5:
     s="左"

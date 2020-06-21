@@ -1,6 +1,6 @@
 #the first homework
 import random
-
+# 对提交的文件的变更
 # 生成随机数
 s=random.randint(0,9)
 

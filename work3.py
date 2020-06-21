@@ -4,7 +4,7 @@ for x in range(1,10):
             print('%s*%s=%s  '%(x,y,x*y),end="  ")
     print()
 
-
+# 提交对工作3的变更
 #从一加到一百
 print(sum(range(1,101)))
 
